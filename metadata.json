@@ -1,0 +1,8 @@
+{
+  "name": "OZ Digital - bd",
+  "description": "Site institucional da OZ Digital, agência de hospedagem premium, desenvolvimento WordPress e SEO em Florianópolis - SC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

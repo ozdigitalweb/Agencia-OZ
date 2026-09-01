@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", sans-serif;
+  --font-display: "Poppins", sans-serif;
+  --color-brand-blue-deep: #0f172a; /* slate-900 */
+  --color-brand-blue-slate: #1e293b; /* slate-800 */
+  --color-brand-blue: #1e3a8a; /* Much darker elegant navy blue (blue-900) */
+  --color-brand-orange: #f97316; /* orange-500 */
+  --color-brand-orange-hover: #ea580c; /* orange-600 */
+  --color-brand-teal: #06b6d4; /* teal-500 */
+
+  /* Override default Tailwind blue palette to automatically darken all existing blue elements */
+  --color-blue-700: #1e3a8a; /* Darker navy blue (was #1d4ed8) */
+  --color-blue-800: #172554; /* Deep midnight navy */
+  --color-blue-600: #1e40af; /* Rich slate blue for accents and hover states */
+}
+
+/* Custom scrollbar and baseline aesthetics */
+html {
+  scroll-behavior: smooth;
+  font-family: var(--font-sans);
+}
+
+body {
+  background-color: #f8fafc; /* slate-50 */
+  color: #1e293b; /* slate-800 */
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Hide scrollbar utility */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+

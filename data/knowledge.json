@@ -1,0 +1,156 @@
+[
+  {
+    "id": "kb-01-solucao-360",
+    "title": "Solução 360 Graus (Pacote Completo de Auxílio Digital)",
+    "category": "Solução 360°",
+    "content": "Solução 360 Graus da AGÊNCIA OZ (Pacote All-in-One):\n\n• **Diagnóstico Raio-X**: Análise completa de velocidade, segurança e SEO\n• **Site ou Landing Page**: Desenvolvimento em WordPress ultrarrápido\n• **Hospedagem Cloud Dedicada**: Servidor VPS NVMe com cPanel e e-mails blindados\n• **SEO Local & GEO**: Otimização para Google Maps e IAs (Gemini e ChatGPT)\n• **Suporte Humanizado**: Atendimento direto no WhatsApp sem filas",
+    "tags": ["360", "solução 360", "pacote", "auxilio geral", "tudo incluso", "completo", "consultoria", "transformacao digital"],
+    "priority": "high",
+    "active": true,
+    "suggestedLinks": [
+      { "label": "Solução 360°", "url": "/360-graus" },
+      { "label": "Diagnóstico Gratuito", "url": "/orcamento" }
+    ],
+    "updatedAt": "2026-08-28"
+  },
+  {
+    "id": "kb-02-hospedagem-vps",
+    "title": "Hospedagem Cloud WordPress com cPanel Dedicado",
+    "category": "Hospedagem Cloud",
+    "content": "Recursos da Hospedagem Cloud AGÊNCIA OZ:\n\n• **Servidores Cloud NVMe**: Carregamento instantâneo do seu site\n• **cPanel Oficial em Português**: Painel completo e fácil de gerenciar\n• **E-mails Blindados Anti-Spam**: Registros SPF, DKIM e DMARC configurados\n• **SSL Grátis e Backups Diários**: Segurança total inclusa\n• **Planos a partir de R$ 49,90/mês** com migração gratuita do seu site atual",
+    "tags": ["hospedagem", "cpanel", "vps", "cloud", "servidor", "email", "e-mail", "ssl", "backup", "migracao", "nvme"],
+    "priority": "high",
+    "active": true,
+    "suggestedLinks": [
+      { "label": "Planos de Hospedagem", "url": "/servicos/hospedagem" },
+      { "label": "Migração Grátis", "url": "https://wa.me/5548991984678?text=Ola%2C+quero+migrar+meu+site+para+a+hospedagem+OZ" }
+    ],
+    "updatedAt": "2026-08-28"
+  },
+  {
+    "id": "kb-10-cpanel-recursos",
+    "title": "Recursos do Painel cPanel Oficial (Gerenciamento, E-mails, SSL e Backup)",
+    "category": "Hospedagem Cloud",
+    "content": "Painel cPanel Oficial AGÊNCIA OZ:\n\n• **Gerenciador de Arquivos**: Editor de código e descompactador ZIP integrados\n• **E-mails Corporativos Ilimitados**: Webmail Roundcube com proteção anti-spam\n• **Editor de DNS Avançado**: Gerenciamento de entradas A, CNAME, MX, TXT\n• **Bancos de Dados MySQL**: Alta velocidade em discos NVMe com phpMyAdmin\n• **WordPress Toolkit**: Instalação e atualização em 1 clique\n• **Certificados SSL Automáticos**: Renovação Let's Encrypt / AutoSSL sem custo",
+    "tags": ["cpanel", "painel", "recursos cpanel", "gerenciador de arquivos", "webmail", "mysql", "phpmyadmin", "ssl", "php", "autossl", "roundcube", "backup cpanel", "dns"],
+    "priority": "high",
+    "active": true,
+    "suggestedLinks": [
+      { "label": "Planos com cPanel", "url": "/servicos/hospedagem" },
+      { "label": "Migrar cPanel Grátis", "url": "https://wa.me/5548991984678?text=Ola%2C+gostaria+de+migrar+minha+conta+cPanel+para+a+OZ" }
+    ],
+    "updatedAt": "2026-08-28"
+  },
+  {
+    "id": "kb-03-sites-wordpress",
+    "title": "Criação de Sites, Landing Pages, Artes para Redes Sociais e Copywriting",
+    "category": "WordPress, LPs & Mídia",
+    "content": "Criação de Sites & Landing Pages de Alta Conversão:\n\n• **Landing Pages Estratégicas**: Focadas em gerar orçamentos e vendas\n• **Sites Institucionais**: 100% responsivos com WordPress e painel fácil\n• **Carregamento Instantâneo**: Nota 90+ no Google PageSpeed\n• **Artes e Copywriting Alinhados**: Identidade visual em sintonia com anúncios\n• **Integração Completa**: WhatsApp Direto, CRM e OZZY Assistente IA",
+    "tags": ["site", "criar site", "wordpress", "landing page", "artes", "instagram", "facebook", "copywriting", "copy", "redes sociais", "desenvolvimento", "portal", "responsivo", "pagespeed", "rapido"],
+    "priority": "high",
+    "active": true,
+    "suggestedLinks": [
+      { "label": "Landing Pages", "url": "/servicos/landingpages" },
+      { "label": "Mídia & Assistente IA", "url": "/servicos/midia" },
+      { "label": "Sites WordPress", "url": "/servicos/wordpress" }
+    ],
+    "updatedAt": "2026-08-28"
+  },
+  {
+    "id": "kb-11-midia-divulgacao-ozzy",
+    "title": "Mídia Digital, Divulgação de Marca e Assistente Virtual IA (OZZY)",
+    "category": "Mídia & IA",
+    "content": "Soluções de Mídia & Divulgação AGÊNCIA OZ:\n\n• **Artes para Redes Sociais**: Posts para Feed, Stories e Carrosséis\n• **Copywriting de Conversão**: Textos persuasivos para anúncios e páginas\n• **Campanhas de Divulgação**: Estratégias para lançamento e captação de clientes\n• **OZZY Assistente Virtual com IA**: Atendimento 24/7 integrado ao seu site",
+    "tags": ["midia", "mídia", "divulgacao", "divulgação", "artes", "instagram", "facebook", "social media", "copy", "copywriting", "ozzy", "assistente virtual", "ia", "inteligencia artificial", "robo", "atendimento 24h", "lancamento de produtos"],
+    "priority": "high",
+    "active": true,
+    "suggestedLinks": [
+      { "label": "Mídia & Assistente IA", "url": "/servicos/midia" },
+      { "label": "Landing Pages & Artes", "url": "/servicos/landingpages" }
+    ],
+    "updatedAt": "2026-08-28"
+  },
+  {
+    "id": "kb-04-seo-geo",
+    "title": "SEO Local no Google e Otimização GEO (Generative Engine Optimization para IA)",
+    "category": "SEO & Posicionamento",
+    "content": "Posicionamento no Google e IAs (SEO & GEO):\n\n• **SEO Local**: Otimização do Perfil da Empresa no Google Maps\n• **SEO On-Page**: Schema.org, metatags, títulos e velocidade máxima\n• **GEO (Generative Engine Optimization)**: Destaque no ChatGPT, Gemini e Copilot",
+    "tags": ["seo", "geo", "google", "maps", "busca", "primeira pagina", "gemini", "chatgpt", "posicionamento", "palavras chave", "trafego organico"],
+    "priority": "high",
+    "active": true,
+    "suggestedLinks": [
+      { "label": "Serviços de SEO", "url": "/servicos/seo" },
+      { "label": "Guia SEO vs GEO", "url": "/l/futuro-da-busca" }
+    ],
+    "updatedAt": "2026-08-28"
+  },
+  {
+    "id": "kb-05-provox-streaming",
+    "title": "PROVOX Streaming & Rádio Corporativa / Som Ambiente (Serviço Específico)",
+    "category": "PROVOX Streaming",
+    "content": "PROVOX Streaming & Rádio Corporativa:\n\n• **Transmissão em Nuvem 24h**: Com AutoDJ sem precisar de PC ligado\n• **Vinhetas e Comerciais Agendados**: Divulgue suas promoções nos horários certos\n• **Player Exclusivo sem Concorrentes**: Som ambiente para lojas, clínicas e academias",
+    "tags": ["provox", "radio", "streaming", "som ambiente", "musica", "autodj", "vinhetas", "comerciais", "loja", "clinica", "radio web", "servico especifico", "avulso"],
+    "priority": "medium",
+    "active": true,
+    "suggestedLinks": [
+      { "label": "PROVOX Streaming", "url": "/servicos/streaming" },
+      { "label": "Questionário Briefing", "url": "/servicos/provox/briefing" }
+    ],
+    "updatedAt": "2026-08-28"
+  },
+  {
+    "id": "kb-06-precos-prazos",
+    "title": "Preços, Formas de Pagamento e Prazos Médios de Entrega",
+    "category": "Preços & Prazos",
+    "content": "Tabela de Preços e Prazos Médios AGÊNCIA OZ:\n\n• **Hospedagem Cloud cPanel**: A partir de R$ 49,90/mês\n• **Landing Pages**: A partir de R$ 890 (Entrega em 3 a 7 dias úteis)\n• **Sites Institucionais WordPress**: A partir de R$ 1.690 (Entrega em 10 a 20 dias úteis)\n• **Solução 360°**: Pacote sob medida após diagnóstico gratuito\n• **Formas de Pagamento**: PIX com desconto ou cartão em até 12x",
+    "tags": ["preco", "preço", "quanto custa", "valor", "tabela", "parcelamento", "prazo", "dias", "pagamento", "pix", "cartao", "orcamento"],
+    "priority": "high",
+    "active": true,
+    "suggestedLinks": [
+      { "label": "Simulador de Orçamento", "url": "/orcamento" },
+      { "label": "Falar com Consultor", "url": "https://wa.me/5548991984678?text=Ola%2C+gostaria+de+um+orcamento+personalizado" }
+    ],
+    "updatedAt": "2026-08-28"
+  },
+  {
+    "id": "kb-07-contato-atendimento",
+    "title": "Canais Oficiais de Contato, Localização e Horário de Atendimento",
+    "category": "Contato & Atendimento",
+    "content": "Canais Oficiais da AGÊNCIA OZ:\n\n• **WhatsApp Oficial / Telefone**: (48) 99198-4678\n• **E-mail**: contato@agenciaoz.com.br\n• **Sede**: Canoas / RS (Atendimento para todo o Brasil)\n• **Horário**: Segunda a Sexta, das 09h às 18h (Servidores monitorados 24/7)",
+    "tags": ["contato", "whatsapp", "telefone", "email", "endereco", "onde fica", "canoas", "porto alegre", "rs", "horario", "suporte"],
+    "priority": "high",
+    "active": true,
+    "suggestedLinks": [
+      { "label": "Página de Contato", "url": "/contato" },
+      { "label": "Chamar no WhatsApp", "url": "https://wa.me/5548991984678" }
+    ],
+    "updatedAt": "2026-08-28"
+  },
+  {
+    "id": "kb-08-casos-sucesso",
+    "title": "Casos de Sucesso e Portfólio (CSSGAPA, RN Com e Clientes)",
+    "category": "Portfólio & Casos",
+    "content": "Portfólio e Casos de Sucesso:\n\n• **CSSGAPA Canoas**: Portal da Aeronáutica com agendamentos e eventos\n• **RN Com Digital (Porto Alegre)**: Parceria de desenvolvimento WordPress\n• **Clínicas, Escritórios e E-commerces**: Mais de 50 sites com nota 90+ no PageSpeed",
+    "tags": ["clientes", "portfolio", "casos de sucesso", "cssgapa", "aeronautica", "canoas", "rn com", "rogerio nolasco", "depoimentos", "exemplos"],
+    "priority": "medium",
+    "active": true,
+    "suggestedLinks": [
+      { "label": "Ver Clientes e Portfólio", "url": "/clientes" }
+    ],
+    "updatedAt": "2026-08-28"
+  },
+  {
+    "id": "kb-09-diferenciais-anti-spam",
+    "title": "Diferencial Técnico: E-mails Blindados e Nota Máxima no PageSpeed",
+    "category": "Diferenciais Técnicos",
+    "content": "Diferenciais Técnicos da AGÊNCIA OZ:\n\n• **E-mails Blindados**: SPF, DKIM e DMARC configurados para 100% de entrega\n• **Velocidade Extrema**: Imagens WebP, cache NVMe e nota 90+ no PageSpeed\n• **Suporte Humanizado**: Contato direto pelo WhatsApp sem intermediários",
+    "tags": ["diferenciais", "spam", "dkim", "spf", "dmarc", "velocidade", "pagespeed", "cache", "suporte humanizado", "por que escolher"],
+    "priority": "high",
+    "active": true,
+    "suggestedLinks": [
+      { "label": "Solução 360°", "url": "/360-graus" },
+      { "label": "Falar no WhatsApp", "url": "https://wa.me/5548991984678" }
+    ],
+    "updatedAt": "2026-08-28"
+  }
+]
