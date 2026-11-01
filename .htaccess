@@ -1,0 +1,29 @@
+# ==============================================================================
+# .htaccess - Configuração para Apache no cPanel (Reverse Proxy para Node.js)
+# ==============================================================================
+# Use este arquivo se sua hospedagem cPanel utiliza Apache com mod_proxy ou se o
+# aplicativo Node.js estiver rodando como serviço (PM2, systemd ou porta interna).
+#
+# Se você estiver utilizando o "Setup Node.js App" (Phusion Passenger) nativo do cPanel,
+# o próprio cPanel gerencia o arquivo .htaccess automaticamente.
+# ==============================================================================
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # 1. Forçar HTTPS (SSL)
+  RewriteCond %{HTTPS} off
+  RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+  # 2. Encaminhar requisições para o servidor Node.js (porta 3000)
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^(.*)$ http://127.0.0.1:3000/$1 [P,L]
+</IfModule>
+
+<IfModule mod_proxy.c>
+  ProxyRequests Off
+  ProxyPreserveHost On
+  ProxyPass / http://127.0.0.1:3000/
+  ProxyPassReverse / http://127.0.0.1:3000/
+</IfModule>
